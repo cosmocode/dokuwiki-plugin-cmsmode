@@ -8,6 +8,6 @@
 $conf['breadcrumbs']    = 0;
 $conf['youarehere']    = 0;
 
-$conf['actions'] = 'backlink,index,recent,revisions,media,search,wikicode,source,export_raw,rss';
+$conf['actions'] = 'backlink,index,recent,revisions,media,search,source,export_raw,rss';
 
 
