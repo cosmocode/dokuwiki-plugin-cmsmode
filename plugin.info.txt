@@ -1,0 +1,7 @@
+base   cmsmode
+author Andreas Gohr
+email  dokuwiki@cosmocode.de
+date   2023-08-16
+name   cmsmode plugin
+desc   Hide Wiki Features from non-logged in users
+url    https://www.dokuwiki.org/plugin:cmsmode
