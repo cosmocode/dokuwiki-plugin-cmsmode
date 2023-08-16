@@ -41,8 +41,6 @@ class action_plugin_cmsmode_start extends \dokuwiki\Extension\ActionPlugin
         $disabled = array_filter($disabled);
         $disabled = array_unique($disabled);
         $conf['disableactions'] = join(',', $disabled);
-        msg($conf['disableactions']);
     }
-
 }
 
